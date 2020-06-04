@@ -8,7 +8,7 @@ A new Flutter application.
     $ flutter pub get
 ```
 
-* Start building
+* Start building  
 Use emulator or a physical device connected by USB
 ```sh
     $ flutter run
